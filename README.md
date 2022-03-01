@@ -12,4 +12,8 @@ Curso Intro FrontEnd (Prácticas)
 
 
 4. Wireframe UX
-5. UI
+
+![4 -UX](https://user-images.githubusercontent.com/37346944/156086728-1b58a0bc-d3fb-4be8-a014-b13e9cc8dc6c.png)
+
+
+6. UI
