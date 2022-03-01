@@ -16,4 +16,7 @@ Curso Intro FrontEnd (Prácticas)
 ![4 -UX](https://user-images.githubusercontent.com/37346944/156086728-1b58a0bc-d3fb-4be8-a014-b13e9cc8dc6c.png)
 
 
-6. UI
+5. UI
+
+![5 -UI](https://user-images.githubusercontent.com/37346944/156089813-d88dbe63-8bf8-4675-823f-7250ee80ca30.png)
+
