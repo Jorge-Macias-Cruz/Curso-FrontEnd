@@ -1,5 +1,5 @@
 # Curso-FrontEnd
-Curso Intro FrontEnd (Prácticas)
+Curso Intro FrontEnd Semana 1 (Requerimientos)
 
 1. Toma de Requerimientos
 2. Buyer Persona
